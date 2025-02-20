@@ -14,14 +14,7 @@
     alt="Github Stats"
   />
 </div>
-<br>
-<div align="center">
-  <img
-    width=450
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=Huuuuuugo&theme=dark&hide_border=true"
-    alt="GitHub Streak" 
-  />
-</div>
+
 
 ### 🏆 GitHub Profile Trophy
 
