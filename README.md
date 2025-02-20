@@ -26,10 +26,6 @@
   </div>
 </div>
 
-
-
-
-
 ### 🏆 GitHub Profile Trophy
 
 <div align="center">
@@ -43,5 +39,3 @@
     />
   </a>
 </div>
-
----
