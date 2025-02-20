@@ -7,20 +7,20 @@
     <img 
       src="https://github-readme-stats.vercel.app/api?username=Huuuuuugo&theme=dark&show_icons=true&hide_border=true&count_private=true"
       alt="Github Stats"
-      height="300"
+      height="250"
       style="margin-bottom: 10px;"
     />  
     <div style="display: flex; flex-direction: column; gap: 10px;">
       <img
         src="https://github-readme-streak-stats-eight.vercel.app/?user=Huuuuuugo&theme=dark&hide_border=true"
         alt="GitHub Streak"
-        height="150"
+        height="125"
         style="margin-bottom: 10px;"
       />
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huuuuuugo&theme=dark&show_icons=true&hide_border=true&layout=compact"
         alt="Github Stats"
-        height="150"
+        height="125"
       />
     </div>
   </div>
