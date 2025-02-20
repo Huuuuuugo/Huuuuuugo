@@ -7,20 +7,20 @@
     <img 
       src="https://github-readme-stats.vercel.app/api?username=Huuuuuugo&theme=dark&show_icons=true&hide_border=true&count_private=true"
       alt="Github Stats"
-      height="200"
+      height="300"
       style="margin-bottom: 10px;"
     />  
     <div style="display: flex; flex-direction: column; gap: 10px;">
       <img
         src="https://github-readme-streak-stats-eight.vercel.app/?user=Huuuuuugo&theme=dark&hide_border=true"
         alt="GitHub Streak"
-        height="100"
+        height="150"
         style="margin-bottom: 10px;"
       />
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huuuuuugo&theme=dark&show_icons=true&hide_border=true&layout=compact"
         alt="Github Stats"
-        height="100"
+        height="150"
       />
     </div>
   </div>
@@ -38,7 +38,7 @@
     title="repositório de troféus"
   >
     <img
-      width="800"
+      height="200"
       src="https://github-profile-trophy.vercel.app/?username=Huuuuuugo&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
