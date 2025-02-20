@@ -3,22 +3,36 @@
 ### ⚙️ GitHub Analytics
 
 <div align="center">
-  <img 
-    height=150  
-    src="https://github-readme-stats.vercel.app/api?username=Huuuuuugo&theme=dark&show_icons=true&hide_border=true&count_private=true"
-    alt="Github Stats"
-  />  
-  <img
-    height=150
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huuuuuugo&theme=dark&show_icons=true&hide_border=true&layout=compact"
-    alt="Github Stats"
-  />
+  <div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Huuuuuugo&theme=dark&show_icons=true&hide_border=true&count_private=true"
+      alt="Github Stats"
+      height="200"
+      style="margin-bottom: 10px;"
+    />  
+    <div style="display: flex; flex-direction: column; gap: 10px;">
+      <img
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=Huuuuuugo&theme=dark&hide_border=true"
+        alt="GitHub Streak"
+        height="100"
+        style="margin-bottom: 10px;"
+      />
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huuuuuugo&theme=dark&show_icons=true&hide_border=true&layout=compact"
+        alt="Github Stats"
+        height="100"
+      />
+    </div>
+  </div>
 </div>
+
+
+
 
 
 ### 🏆 GitHub Profile Trophy
 
-<p align="center">
+<div align="center">
   <a
     href="https://github.com/ryo-ma/github-profile-trophy"
     title="repositório de troféus"
@@ -28,6 +42,6 @@
       src="https://github-profile-trophy.vercel.app/?username=Huuuuuugo&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
-</p>
+</div>
 
 ---
