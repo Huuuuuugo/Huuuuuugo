@@ -1,5 +1,5 @@
 ## Olá, meu nome é Hugo Messias!
-### 🛠️ Languages & Frameworks
+### 🛠️ Tech Stack
 
 <div align="center">
   <img height=35rem src="https://github.com/user-attachments/assets/a8a691d1-edd0-49af-80ee-9ca8dbf93cc4">
@@ -9,6 +9,7 @@
   <img height=35rem src="https://github.com/user-attachments/assets/2c73e518-818c-4c26-8f43-9def86478e6e">
   <img height=35rem src="https://github.com/user-attachments/assets/8e5d73ae-035f-4185-ab25-9a144221bb72">
   <img height=35rem src="https://github.com/user-attachments/assets/854e269a-b233-4aff-bb37-d93cc592c1bc">
+  <img height=35rem src="https://github.com/user-attachments/assets/2309a9b5-ec9e-4407-a246-4185605f492b">
 </div>
 
 
